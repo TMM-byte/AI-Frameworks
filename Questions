@@ -1,0 +1,45 @@
+
+
+Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
+
+TensorFlow is better suited for production environments and large-scale deployments, 
+while PyTorch is preferred for research, education, and rapid experimentation.
+
+I would choose TensorFlow for industry applications, and PyTorch for academic research and prototyping.
+
+Q2: Describe two use cases for Jupyter Notebooks in AI development.
+
+1.Exploratory Data Analysis (EDA): Jupyter Notebooks allow for interactive data visualization and analysis, making it easier to understand patterns
+and relationships in the data.
+2.Model prototyping and experimentation: They are ideal for testing different models, hyperparameters, and algorithms in a flexible, interactive environment.
+
+Q3: How does spaCy enhance NLP tasks compared to basic Python string operations?
+
+spaCy provides pre-trained NLP pipelines for tasks like tokenization, named entity recognition which are not available in basic string operations.
+It offers high performance and accuracy for NLP tasks, while basic Python string operations are limited and require manual coding for complex NLP tasks.
+
+
+
+
+COMPARATIVE ANALYSIS
+
+Target Applications
+Scikit-learn is focused on classical machine learning tasks such as classification and clustering 
+It is ideal for problems where traditional algorithms like decision trees are used.
+
+TensorFlow is primarily used for deep learning tasks like neural networks and sequence modeling. 
+It's best suited for complex models that require multiple layers and non-linear transformations.
+
+Ease of Use for Beginners
+Scikit-learn is easier for beginners to use because of its simple API, minimal setup, and intuitive functions for standard 
+machine learning tasks. 
+
+TensorFlow is more complex for beginners, especially when dealing with computational graphs,
+ and training loops.
+
+Community Support
+Scikit-learn has a large and mature community, with extensive documentation and third-party libraries 
+that support its use in various applications.
+
+TensorFlow also has a very strong community, especially in the deep learning space. 
+It offers tutorials and active forums, making it a popular choice for both researchers and developers.
